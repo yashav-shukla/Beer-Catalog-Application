@@ -77,3 +77,5 @@ The application uses the Sample APIs beer collection:
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
+
+You can see the project - [ https://beer-catalog-application.vercel.app/ ]
